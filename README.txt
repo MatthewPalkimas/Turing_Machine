@@ -1,5 +1,5 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-MATTHEW PALKIMAS
+Work of Matthew Palkimas
 TURING MACHINE EXECUTOR
 :To run just compile TuringMachineExecutor.cpp and use the format
 a.out tmFile input
