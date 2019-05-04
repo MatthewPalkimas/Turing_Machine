@@ -1,6 +1,8 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ README ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Work of Matthew Palkimas for ECE511 Computability, Complexity, and Algorithms
+
 TURING MACHINE EXECUTOR
+
 :To run just compile TuringMachineExecutor.cpp and use the format
 a.out tmFile input
 or
